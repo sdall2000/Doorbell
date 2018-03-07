@@ -14,3 +14,6 @@ We will be hacking the SadoTech CXR Wireless Doorbell
 
 ![SadoTech CXR](images/SadoTechCxr.jpg)
 
+If we open the ringer, we can see some interesting information, such as what looks like the operating frequency of 433 MHz.
+
+![Interior](images/RingerOpen.jpg)
